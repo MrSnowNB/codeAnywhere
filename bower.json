@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "authors": [
+    "mark_snow <mark_snow@nbpsnj.net>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "boostrap#^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
